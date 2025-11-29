@@ -1,4 +1,4 @@
-# ⚡ BelongWorkAPI
+#  BelongWorkAPI
 
 API desenvolvida para o projeto da disciplina **SOA & Web Services** (FIAP).  
 O sistema implementa autenticação JWT, controle de acesso por perfis e endpoints REST .
@@ -24,7 +24,7 @@ Para tornar essa experiência mais eficiente, o Belong Work utiliza Inteligênci
 ---
 
 ## LINK DO GITHUB
-- [Link para o Github](https://github.com/BernardoPRocha/BelongWorkAPI.git)
+- [Link para o Github](https://github.com/BernardoPRocha/BelongWorkAPI.git) 
 
 ---
 
